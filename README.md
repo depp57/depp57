@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sacha</h1>
 <h3 align="center">A passionate IT student based in France.</h3>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=depp57&label=Profile%20views&color=23b353&style=flat" alt="depp57" /> </p>
 
